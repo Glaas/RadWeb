@@ -14,7 +14,4 @@
 
 [Foam](https://foambubble.github.io/foam/ "Foam") (and foam [docs](https://github.com/foambubble/foam-template/blob/master/getting-started.md))
  
-
-
-
-
+This website is running huge thanks to [this repo and tutorial](https://github.com/hikerpig/foam-template-gatsby-kb) and it runs on [Foam](https://foambubble.github.io/foam/ "Foam")
