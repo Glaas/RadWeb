@@ -1,6 +1,6 @@
 # NotesSettings
 
-
+```json
 {"editor.tokenColorCustomizations": {
     "textMateRules": [
         {
@@ -76,3 +76,4 @@
     ]
   }
 }
+```
