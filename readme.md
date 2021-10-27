@@ -1,16 +1,14 @@
-# No it didn't
+# Rad Web
 
-# Sup
+## What is this ?
 
-👋 It's my online database buddy
+👋 Hi ! This is the online database of [Sebastien "Glaas" Decuyper](https://sebdec.net/aboutme.html "Personal website")
 
-## Getting started
+## Links
 
-I'll get your mom started 
+[Website repository](https://github.com/Glaas/RadWeb "Website repo")
+ 
 
-[[math]] hey this is math
-
-[[firspp]] no fucking way ???
 
 
 
