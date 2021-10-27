@@ -9,7 +9,7 @@ module.exports = {
     // some SEO configs using by gatsby-theme-kb
     title: `Rad Web`, // Replace it with your site's title
     author: `Sebastien "Glaas" Decuyper`, // Replace it with your name
-    description: `My secret lair`, // Replace it with your site's description
+    description: `My knowledge databate`, // Replace it with your site's description
   },
   plugins: [
     {
