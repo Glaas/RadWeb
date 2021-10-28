@@ -31,3 +31,4 @@ Must do a colloqium in which I have to present the content of my internship
 - Important to find a supervisor (prob Berger) **Form will be uploaded on Job Teaser**
 - Send back the form by October 1st (internship time)
 - <span style="color:red">Participation in colloqium is mandatory</span>.
+- 
