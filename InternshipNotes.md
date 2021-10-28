@@ -42,6 +42,11 @@ Will receive big email in december
 **November 21 will be internship info session about internships abroad**
 - UE Career tutorial english (is name of the Teams for internship info sessions)
 
+****
+Scholarships for internships : possible funding for internships abroad:  Startseite - Erasmus+ (erasmusplus.de)
+https://www.erasmusplus.de/
+Approach international office !!
+****
 
  ![Contacts](attachments/internship.png)
 
