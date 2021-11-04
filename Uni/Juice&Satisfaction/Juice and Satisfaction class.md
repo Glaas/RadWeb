@@ -12,3 +12,7 @@ Either make a simple arcade game and pack it with juice
 "what´s happening and how do i juice it up
 
 CAN TAKE EXISTING GAME, provide multiple versions
+
+jam page https://itch.io/jam/ws2122-juice-satisfaction
+
+#juice #games
