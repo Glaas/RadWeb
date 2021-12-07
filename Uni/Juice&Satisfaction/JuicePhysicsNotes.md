@@ -12,7 +12,6 @@ Corridor based type of thing
 - Upgrades are found in the wild
 
 ### Seb
-- Pause menu, Mouse sensitivity setting, in game console
 - Decals and footsteps, basics feedbacks on player actions
 The things that make for QoL improvements without being too gameplay specific.
 
