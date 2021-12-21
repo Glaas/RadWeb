@@ -12,5 +12,6 @@ people at Yarn Spinner
 GlassBottomMeg (skatebirb)
 Coatsink / Bunnyhug games (Moonglow)
 Team Cherry (hollow knight)
+d pad studio (owlboy)
 
 
