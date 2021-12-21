@@ -12,6 +12,8 @@ how come that the current director of the forum is former british museum ? why ?
 
 commodification of culture
 
+Help for quotations : https://www.citationmachine.net
+
 
 [Guidelines for seminar paper](https://github.com/Glaas/RadWebTest/blob/master/Uni/FromPalaceToForum/Guidelines%20for%20the%20seminar%20paper.pdf)
 [[fromPalace]]
