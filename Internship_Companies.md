@@ -4,6 +4,8 @@
 
 SuperGiant Games (San Francisco)
 Ubisoft Berlin
+GlassBottomMeg (skatebirb)
+Coatsink / Bunnyhug games (Moonglow)
 freya holmer
 coatsking (moonglow)
 people at Yarn Spinner
