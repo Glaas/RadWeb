@@ -38,12 +38,17 @@ In case that wasn't obvious, you want to hit 6 as much as possible, and when not
 
 The idea is simple : use the number always given to you, and make a Y shape within the grid.
 
+<div class="grid-container">
+    <div class ="grid-item">
 So, if you get a grid like this :
 
 | **.** | **.** | **.** |
 | ----- | ----- | ----- |
 | **.** | **x** | **.** |
 | **.** | **.** | **.** |
+
+</div>
+    <div class ="grid-item">
 
 You would complete it this way :
 
@@ -52,6 +57,11 @@ You would complete it this way :
 | **.** | **x** | **.** |
 | **.** | **x** | **.** |
 
+</div>
+</div>
+
+<div class="grid-container">
+    <div class ="grid-item">
 If your prompt looks like this :
 
 | **.** | **.** | **.** |
@@ -59,6 +69,8 @@ If your prompt looks like this :
 | **.** | **.** | **x** |
 | **.** | **.** | **.** |
 
+</div>
+    <div class ="grid-item">
 Then just complete that way.
 
 | **x** | **.** | **.** |
@@ -66,6 +78,8 @@ Then just complete that way.
 | **.** | **x** | **x** |
 | **x** | **.** | **.** |
 
+</div>
+</div>
 The orientation does not matter, what does is that you have a Y shape in the end.
 
 ## But why ?
@@ -79,10 +93,21 @@ Because that shape is the one that will give you the most visibility on the boar
 
 _Yucky, there's one line who's completely obscure to you_
 
-
 ---
+
 ## Final note
 
 This is not a game you can win every time. This article barely gives you a way to make your attempts more reliable. You may not win the first time. However, applying that technique, I usually get a jackpot at least once every 5 days, and more often once every 2 or 3 days. It's become fairly frequent to get two jackpots in a row. Before applying that, I was not able to get a jackpot even after weeks of daily attempts.
 
 Happy playing ! [Let me know](s.decuyper314@gmail.com) if this helped you !
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  text-align: center;
+</style>
