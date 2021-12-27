@@ -16,3 +16,4 @@ modified: 2021-10-28T02:23:14+02:00
 - [ ] Establish a portfolio plan
 - [ ] Prepare YES!Barcamp
 - [ ] Receipts Netto
+- [ ] Reorganize repos into VSCode workspaces
