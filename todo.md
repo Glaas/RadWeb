@@ -7,8 +7,11 @@ modified: 2021-10-28T02:23:14+02:00
 
 ### Here are all the tasks at hand
 
-- Thing
-- Thing
-- Thing
-- Thing
-- Thing
+- [ ] Seminar paper on the Humboldt Forum
+- [ ] Tools and Technology platformer
+- [ ] Article on Git Flow
+- [ ] Remote Controlled process journal
+- [ ] Juice process journal
+- [ ] Define what SebEssentials should be and refine them
+- [ ] Establish a portfolio plan
+- [ ] Prepare YES!Barcamp
