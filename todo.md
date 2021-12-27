@@ -15,3 +15,4 @@ modified: 2021-10-28T02:23:14+02:00
 - [ ] Define what SebEssentials should be and refine them
 - [ ] Establish a portfolio plan
 - [ ] Prepare YES!Barcamp
+- [ ] Receipts Netto
