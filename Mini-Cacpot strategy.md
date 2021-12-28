@@ -91,7 +91,7 @@ Because that shape is the one that will give you the most visibility on the boar
 | **x** | **x** | **$\color{red}{.}$** |
 | **x** | **.** | **$\color{red}{.}$** |
 
-_Yucky, there's one line who's completely obscure to you_
+_Yucky, there's one line that's completely obscure to you_
 
 ---
 
