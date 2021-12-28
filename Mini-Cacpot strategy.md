@@ -101,13 +101,4 @@ This is not a game you can win every time. This article barely gives you a way t
 
 Happy playing ! [Let me know](s.decuyper314@gmail.com) if this helped you !
 
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  padding: 10px;
-}
-.grid-item {
-  padding: 20px;
-  text-align: center;
-</style>
+
