@@ -19,3 +19,5 @@ https://www.embark-studios.com/
 Ashley (Freya's partner) works there 
 apparently great intern policies
 UE and Rust
+
+MegaCrit (Slay the Spire)
