@@ -13,8 +13,8 @@
 - Yacht Club (Shovel Knight)
 
 - https://www.embark-studios.com/
-    Ashley (Freya's partner) works there 
-    apparently great intern policies
-    UE and Rust
+  - Ashley (Freya's partner) works there 
+  -  apparently great intern policies
+  -  UE and Rust
 
 - MegaCrit (Slay the Spire)
