@@ -10,7 +10,7 @@ modified: 2021-10-28T02:23:14+02:00
 - [ ] Seminar paper on the Humboldt Forum
 - [ ] Tools and Technology platformer
 - [x] Article on Git Flow
-- [ ] Remote Controlled process journal
+- [x] Remote Controlled process journal
 - [ ] Juice process journal
 - [ ] Define what SebEssentials should be and refine them
 - [ ] Establish a portfolio plan
