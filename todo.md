@@ -18,6 +18,7 @@ modified: 2021-10-28T02:23:14+02:00
 - [ ] SHK Flaschenposte
 
 - [ ] Remote Controlled process journal
+- [ ] Remote Controlled design feature
 - [ ] Juice process journal
 - [ ] Juice progress
 - [ ] Juice presentation
