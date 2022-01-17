@@ -7,14 +7,22 @@ modified: 2021-10-28T02:23:14+02:00
 
 ### Here are all the tasks at hand
 
+
+#### Uni
 - [ ] Seminar paper on the Humboldt Forum
 - [ ] Tools and Technology platformer
-- [x] Article on Git Flow
-- [x] Remote Controlled process journal
+- [ ] Tools and technology documentation
+
+- [ ] SHK Archives
+- [ ] SHK Arcade
+- [ ] SHK Flaschenposte
+
+- [ ] Remote Controlled process journal
 - [ ] Juice process journal
-- [ ] Define what SebEssentials should be and refine them
+- [ ] Juice progress
+- [ ] Juice presentation
+___
+#### Non-Uni
 - [ ] Establish a portfolio plan
-- [ ] Prepare YES!Barcamp
-- [ ] Receipts Netto
-- [x] Reorganize repos into VSCode workspaces
-- [x] Write article on mini-cacpot
+- [ ] Define what SebEssentials should be and refine them
+- [ ] Mushroom into Codecks

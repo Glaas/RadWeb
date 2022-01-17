@@ -43,3 +43,9 @@ MAKE A HEATMAP of the neighborhoods in berlin where most of the audience live
 
 ** marketing or brand identity ? **
 =========> -- CITY MARKETING -- <=========
+
+text is SELLING PLACES
+also the first text that we read
+and neoliberal urban development
+
+look at THEIR bibliography
