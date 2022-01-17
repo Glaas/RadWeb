@@ -21,7 +21,7 @@ ___
 - [x] Remote Controlled design feature --> Jan 18th 
 - [ ] Remote controlled; prepare argumentation for grading talks --> Jan 25th 
 - [ ] Juice process journal --> Feb 1st
-- [ ] Juice progress --> Jan 20th
+- [x] Juice progress --> Jan 20th
 - [ ] Juice presentation --> Jan 25th, 16:00
 #### Non-Uni
 - [ ] Establish a portfolio plan
