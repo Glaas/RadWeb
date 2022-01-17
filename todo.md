@@ -23,7 +23,6 @@ ___
 - [ ] Juice progress
 - [ ] Juice presentation
 ___
-___
 #### Non-Uni
 - [ ] Establish a portfolio plan
 - [ ] Define what SebEssentials should be and refine them
