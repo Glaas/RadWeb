@@ -15,7 +15,7 @@ modified: 2021-10-28T02:23:14+02:00
 ___
 - [ ] SHK Archives  --> Urgent
 - [ ] SHK Arcade --> Jan 19th
-- [ ] SHK Flaschenposte --> Jan 19th
+- [x] SHK Flaschenposte --> Jan 19th
 ___
 - [ ] Remote Controlled process journal --> Feb 1st
 - [ ] Remote Controlled design feature --> Jan 18th 
