@@ -17,7 +17,7 @@ ___
 - [ ] SHK Arcade --> Jan 19th
 - [x] SHK Flaschenposte --> Jan 19th
 ___
-- [ ] Remote Controlled process journal --> Feb 1st
+- [x] Remote Controlled process journal --> Feb 1st
 - [x] Remote Controlled design feature --> Jan 18th 
 - [ ] Remote controlled; prepare argumentation for grading talks --> Jan 25th 
 - [ ] Juice process journal --> Feb 1st
