@@ -9,21 +9,22 @@ modified: 2021-10-28T02:23:14+02:00
 
 
 #### Uni
-- [ ] Seminar paper on the Humboldt Forum   --> Feb 1st
-- [ ] Tools and Technology platformer  --> Feb 1st
-- [ ] Tools and technology documentation --> Feb 1st
+- [ ] Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <10%>]
+- [ ] Tools and Technology platformer  --> Feb 1st [Progress <70%>]
+- [ ] Tools and technology documentation --> Feb 1st [Progress <20%>]
 ___
-- [ ] SHK Archives  --> Urgent
-- [ ] SHK Arcade --> Jan 19th
-- [x] SHK Flaschenposte --> Jan 19th
+- [ ] SHK Archives  --> Urgent [Progress <10%>]
+- [ ] SHK Arcade --> Jan 19th [Progress <0%>]
+- [ ] SHK Flaschenposte --> Jan 19th [Progress <50%>]
 ___
-- [x] Remote Controlled process journal --> Feb 1st
-- [x] Remote Controlled design feature --> Jan 18th 
-- [x] Remote controlled; prepare argumentation for grading talks --> Jan 25th 
-- [ ] Juice process journal --> Feb 1st
-- [x] Juice progress --> Jan 20th
-- [ ] Juice presentation --> Jan 25th, 16:00
+- [x] Remote Controlled process journal --> Feb 1st [Progress <100%>]
+- [x] Remote Controlled design feature --> Jan 18th [Progress <100%>]
+- [x] Remote controlled; prepare argumentation for grading talks --> Jan 25th [Progress <100%>] 
+- [ ] Juice process journal --> Feb 1st [Progress <70%>]
+- [x] Juice progress --> Jan 20th [Progress <100%>]
+- [ ] Juice presentation --> Jan 25th, 16:00 [Progress <20%>]
 #### Non-Uni
-- [ ] Establish a portfolio plan
-- [ ] Define what SebEssentials should be and refine them
-- [ ] Mushroom into Codecks
+- [ ] Establish a portfolio plan [Progress <15%>]
+- [ ] Define what SebEssentials should be and refine them [Progress <15%>]
+- [ ] Mushroom into Codecks [Progress <15%>]
+- [ ] SebEssentials into Codecks [Progress <0%>]
