@@ -11,9 +11,27 @@ pre[class*="language-"] {
   background-color: #2b2727;
 }
 
+
+
 /* ----------------end prism override ------------------- */
 
 code {
   font-size: 0.9em;
 }
 
+textarea {
+  font-size: 4.9em;
+}
+text {
+  font-size: 6.9em;
+}
+:checked {
+  color: #ff0000;
+}
+html {
+  background-color: peachpuff;
+}
+
+a {
+  color: rebeccapurple;
+}

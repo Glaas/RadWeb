@@ -7,4 +7,3 @@ Awful, had a terrible experience. Felt lost, arrogant "nods" to RE, doesn't unde
 
 - Paper Mario and the Origami King
 So charming and cute
-
