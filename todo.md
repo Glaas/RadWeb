@@ -9,7 +9,7 @@ modified: 2021-10-28T02:23:14+02:00
 
 
 #### Uni
-- [ ] Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <10%>]
+- [ ] Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <50%>]
 - [ ] Tools and Technology platformer  --> Feb 1st [Progress <70%>]
 - [ ] Tools and technology documentation --> Feb 1st [Progress <20%>]
 ___
@@ -24,6 +24,9 @@ ___
 - ✅ Juice process journal --> Feb 1st [Progress <70%>]
 - ✅ Juice progress --> Jan 20th [Progress <100%>]
 - ✅ Juice presentation --> Jan 25th, 16:00 [Progress <20%>]
+___
+___
+___
 #### Non-Uni
 - [ ] Establish a portfolio plan [Progress <15%>]
 - [ ] Define what SebEssentials should be and refine them [Progress <15%>]
