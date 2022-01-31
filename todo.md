@@ -9,7 +9,7 @@ modified: 2021-10-28T02:23:14+02:00
 
 
 #### Uni
-- [ ] Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <50%>]
+- ✅ Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <100%>]
 - [ ] Tools and Technology platformer  --> Feb 1st [Progress <70%>]
 - [ ] Tools and technology documentation --> Feb 1st [Progress <20%>]
 ___
