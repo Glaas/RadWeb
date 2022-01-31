@@ -4,7 +4,7 @@ modified: 2021-10-28T02:23:14+02:00
 ---
 
 # TODOS
-
+[Edit todos](https://github.com/Glaas/RadWeb/edit/master/todo.md)
 ### Here are all the tasks at hand
 
 
@@ -33,3 +33,4 @@ ___
 - [ ] Take Freya's maths course
 - [ ] Mushroom into Codecks [Progress <15%>]
 - [ ] SebEssentials into Codecks [Progress <0%>]
+- [ ] New profile picture
