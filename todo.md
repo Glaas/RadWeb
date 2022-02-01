@@ -4,12 +4,12 @@ modified: 2021-10-28T02:23:14+02:00
 ---
 
 # TODOS
-
+[Edit todos](https://github.com/Glaas/RadWeb/edit/master/todo.md)
 ### Here are all the tasks at hand
 
 
 #### Uni
-- [ ] Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <50%>]
+- ✅ Seminar paper on the Humboldt Forum   --> Feb 1st [Progress <100%>]
 - [ ] Tools and Technology platformer  --> Feb 1st [Progress <70%>]
 - [ ] Tools and technology documentation --> Feb 1st [Progress <20%>]
 ___
@@ -33,3 +33,4 @@ ___
 - [ ] Take Freya's maths course
 - [ ] Mushroom into Codecks [Progress <15%>]
 - [ ] SebEssentials into Codecks [Progress <0%>]
+- [ ] New profile picture
