@@ -18,5 +18,16 @@
   -  UE and Rust
 
 - MegaCrit (Slay the Spire)
-- 
 https://twitter.com/ULTRAKILLGame
+
+Aggrocrab
+
+Crows x3
+Extremely OK Games (Celeste and Towerfall)
+
+Santa Monica studios
+FromSoft
+Naughty Dog
+Nintendo
+Square Enix
+Kojima Productions
