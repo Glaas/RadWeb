@@ -51,16 +51,16 @@ Approach international office !!
 
 
 ****
-
+a  
  ![Contacts](https://github.com/Glaas/RadWebTest/blob/a4ecf804d1d2fc34293133195c834970b7d5b67f/attachments/internship.png)
  
  
 ****
-
+b  
  ![Contacts](../../../attachments/internship.pnginternship.png)
 
 ****
-
+c  
  ![Contacts](/attachments/internship.pnginternship.png)
 
 ****
