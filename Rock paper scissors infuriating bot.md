@@ -7,3 +7,6 @@ Additional about first moves https://youtu.be/ygHwBxWyI6E
 
 [Original paper](<[attachments\rockPaperScissorsPaper.pdf](https://github.com/Glaas/RadWebTest/blob/master/attachments/rockPaperScissorsPaper.pdf)>)
 A bot that would dare to play 15 games to win against you, and if you win, you earn a special reward
+
+Twitter of woman in video 
+[Hanna Fry](https://twitter.com/fryrsquared)

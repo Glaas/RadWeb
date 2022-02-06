@@ -48,5 +48,19 @@ https://www.erasmusplus.de/
 Approach international office !!
 ****
 
- ![Contacts](attachments/internship.png)
 
+
+****
+
+ ![Contacts](https://github.com/Glaas/RadWebTest/blob/a4ecf804d1d2fc34293133195c834970b7d5b67f/attachments/internship.png)
+ 
+ 
+****
+
+ ![Contacts](../../../attachments/internship.pnginternship.png)
+
+****
+
+ ![Contacts](/attachments/internship.pnginternship.png)
+
+****
