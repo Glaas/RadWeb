@@ -20,6 +20,17 @@ Beware there may be duplicates
 
 ## Misc todos
 
-- [ ] Give my #Discord to Csongor
-- [ ] Ask for the whiskey place
+- [x] Give my #Discord to Csongor
+- [x] Ask for the whiskey place
 - [ ] Request access to specific year's Teams to access list of students
+
+
+
+
+
+**************
+10am meeting with stamm about projects 
+
+Ask my class about their opinions on projects
+
+at 7 pm, ping everyone a reminder
