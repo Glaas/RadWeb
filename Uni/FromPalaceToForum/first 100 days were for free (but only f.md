@@ -8,3 +8,6 @@ also, it is not only about the profit, but also, who does that attract ? ppl com
 how come that the current director of the forum is former british museum ? why ?
 
 commodification of culture
+
+[[fromPalace22_11]]
+
