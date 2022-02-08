@@ -1,7 +1,7 @@
 # Csongnotes
 
 
-theres some games that already teach game literacy 
+there are some games that already teach game literacy 
 
 
 "where is the line between game litteracy and how you would need to beat a speific game ?"

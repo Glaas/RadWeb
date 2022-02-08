@@ -1,4 +1,4 @@
-# Pathfinding
+# AstarPathfinding
 
 - ***G cost*** = Distance from current node to start node
 - ***H cost*** = Distance from current node to target node

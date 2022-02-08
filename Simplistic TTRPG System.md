@@ -3,7 +3,7 @@ created: 2021-12-29T06:47:43+01:00
 modified: 2021-12-29T06:54:26+01:00
 ---
 
-# JDR
+# Simplistic TTRPG System
 
 custom system with 3 stats : 
 

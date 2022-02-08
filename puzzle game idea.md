@@ -10,4 +10,4 @@ series of levels, each containing a grid
 player must interact with the grid in order to create a path
 and must do that in the least amount of taps![Image](./eb9cf05e47ed4252b3f05517d1de90ae.jpg)
 
-#gameidea #todo //élaborer
+#gameidea #todo 
