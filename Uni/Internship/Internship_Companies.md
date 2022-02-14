@@ -118,3 +118,9 @@
 > **Kojima Productions**
 
 ---
+
+Inkle https://twitter.com/inkleStudios?t=JRaUA-qxbbo0vVdG4PMOYw&s=09
+
+
+
+Guerilla Games (horizon)
