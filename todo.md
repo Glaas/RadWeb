@@ -1,11 +1,14 @@
 ---
 created: 2021-10-28T02:22:57+02:00
-modified: 2021-10-28T02:23:14+02:00
+modified: 2022-02-16T22:27:33+01:00
 ---
 
 # TODOS
+
 [Edit todos](https://github.com/Glaas/RadWeb/edit/master/todo.md)
 ### Here are all the tasks at hand
+
+- Regarder les salles d'escalade a Berlin 
 
 
 #### Uni
