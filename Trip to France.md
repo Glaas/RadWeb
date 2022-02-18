@@ -29,3 +29,13 @@ cross-border commuters and border crossers as specified on the website of the Fe
 Additionally, persons entering Germany following a stay in a high-risk area (but not an area of variant of concern) are exempt from this requirement for stays of less than 72 hours to visit close relatives (parents, children), spouses and partners who do not belong to the same household, or for the purpose of shared custody.
 
 </details>
+
+## KLM Pieces pour remboursement 
+
+<details>
+[confirmation hotel](attachments/Gmail%20-%20Reserveringsbevestiging%20Best%20Western%20Amsterdam%20Airport%20Hotel.pdf)
+
+tickets macdo 
+[i part i](attachments/mcdo1pt1.jpg)
+[i part 2](attachments/mcdo1pt2.jpg)
+</details>
