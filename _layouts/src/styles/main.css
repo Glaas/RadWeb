@@ -11,8 +11,6 @@ pre[class*="language-"] {
   background-color: #2b2727;
 }
 
-
-
 /* ----------------end prism override ------------------- */
 
 code {
@@ -37,5 +35,10 @@ a {
 }
 .grey {
   color: rgb(97, 97, 97);
-  padding: 10px;
+}
+details {
+  margin-bottom: 1em;
+  box-shadow: #252931e1 5px 5px 5px 5px;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }

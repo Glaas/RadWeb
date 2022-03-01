@@ -9,12 +9,9 @@ modified: 2022-02-16T22:27:33+01:00
 
 ### Here are all the tasks at hand
 
-
 #### Uni
 
 - [ ] SHK Archives --> Urgent [Progress <10%>]
-
-
 
 #### Non-Uni
 
@@ -26,14 +23,12 @@ modified: 2022-02-16T22:27:33+01:00
 - [ ] New profile picture
 - [ ] Blog post about [[Rock paper scissors infuriating bot]]
 
+---
+
 
 <details>
-  <summary>ARCHIVE</summary>
-
-<div class="grey">
-
+<summary>▶️ Archives</summary>
 - Regarder les salles d'escalade a Berlin
-
 
 - ✅ Tools and Technology platformer --> Feb 1st [Progress <100%>]
 - ✅ Tools and technology documentation --> Feb 1st [Progress <100%>]
@@ -54,7 +49,6 @@ modified: 2022-02-16T22:27:33+01:00
 - ✅ Seminar paper on the Humboldt Forum --> Feb 1st [Progress <100%>]
 
 
-</div>
 </details>
 
 
