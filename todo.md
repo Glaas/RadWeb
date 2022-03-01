@@ -28,6 +28,7 @@ modified: 2022-02-16T22:27:33+01:00
 
 - [ ] Pay rent 🔴
 - [ ] Message to Danae 🟠
+- [ ] Netto receipts 🟠
 - [ ] Establish a portfolio plan [Progress <15%>] 🟡
 - [ ] Go to Muji 🟡
 - [ ] Go to Samsung 🟡
