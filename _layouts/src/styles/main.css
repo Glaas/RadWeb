@@ -37,8 +37,17 @@ a {
   color: rgb(97, 97, 97);
 }
 details {
-  margin-bottom: 1em;
-  box-shadow: #252931e1 5px 5px 5px 5px;
+  margin-bottom: .1em;
+  box-shadow: #252931e1 1px 1px 1px 1px;
   padding-top: 1em;
   padding-bottom: 1em;
+}
+.box {
+  background-color: #1d1c27;
+  color: #fff;
+  margin-bottom: 1em;
+  box-shadow: #252931bd 2px 2px 5px 5px;
+  padding-top: 1em;
+  padding-bottom: .4em;
+  padding-left: 1em;
 }
