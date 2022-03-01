@@ -9,7 +9,10 @@ modified: 2022-02-16T22:27:33+01:00
 
 ### Here are all the tasks at hand
 
-<div class="box">
+<details>
+
+<summary> ⯈ Chart</summary>
+
 
 - [ ] -- Pending
 
@@ -19,7 +22,8 @@ modified: 2022-02-16T22:27:33+01:00
 🟡 - Not urgent  
 🔵 - Long term
 
-</div>
+
+</details>
 
 <div class="box">
 
@@ -66,7 +70,7 @@ modified: 2022-02-16T22:27:33+01:00
 ---
 
 <details>
-<summary>▶️ Archives</summary>
+<summary>⯈ Archives</summary>
 
 <div class="grey">
 
