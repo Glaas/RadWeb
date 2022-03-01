@@ -8,20 +8,34 @@ modified: 2022-02-16T22:27:33+01:00
 [Edit todos](https://github.com/Glaas/RadWeb/edit/master/todo.md)
 
 ### Here are all the tasks at hand
+[ ] Pending
+✅ Done
+
+🔴 - Urgent
+🟠 - Almost urgent
+🟡 - Not urgent
+🔵 - Long term
 
 #### Uni
 
-- [ ] SHK Archives --> Urgent [Progress <10%>]
+- [ ] Register for classes 🔴
+
+#### SHK
+
+- [ ] SHK Archives --> Urgent [Progress <10%>] 🔴
 
 #### Non-Uni
 
-- [ ] Establish a portfolio plan [Progress <15%>]
-- [ ] Define what SebEssentials should be and refine them [Progress <15%>]
-- [ ] Take [[Freya Maths course]]
-- [ ] Mushroom into Codecks [Progress <15%>]
-- [ ] SebEssentials into Codecks [Progress <0%>]
-- [ ] New profile picture
-- [ ] Blog post about [[Rock paper scissors infuriating bot]]
+- [ ] Establish a portfolio plan [Progress <15%>] 🟡
+- [ ] Go to Muji 🟡
+- [ ] Go to Samsung 🟡
+- [ ] Itch page for 1B and make it open source 🔵
+- [ ] Message to Danae 🟠
+- [ ] Define what SebEssentials should be and refine them [Progress <15%>] 🟡
+- [ ] Take [[Freya Maths course]] 🔵
+- [ ] SebEssentials into Codecks [Progress <0%>] 🔵
+- [ ] New profile picture 🔵
+- [ ] Blog post about [[Rock paper scissors infuriating bot]] 🔵
 
 ---
 
