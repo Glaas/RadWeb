@@ -11,8 +11,6 @@ pre[class*="language-"] {
   background-color: #2b2727;
 }
 
-
-
 /* ----------------end prism override ------------------- */
 
 code {
@@ -34,4 +32,28 @@ html {
 
 a {
   color: rgb(218, 181, 255);
+}
+.grey {
+  color: rgb(97, 97, 97);
+}
+details {
+  margin-bottom: 2em;
+  box-shadow: #252931e1 1px 1px 0px 0px;
+  cursor: pointer;
+  background-color: #454457;
+}
+.box {
+  background-color: #1d1c27;
+  color: #fff;
+  margin-bottom: 1em;
+  box-shadow: #252931bd 2px 2px 5px 5px;
+  padding-top: 1em;
+  padding-bottom: .4em;
+  padding-left: 1em;
+}
+summary {
+  background-color: #454457;
+  color: #fff;
+  font-style: italic;
+  box-shadow: #252931bd 1px 1px 0px 0px;
 }
