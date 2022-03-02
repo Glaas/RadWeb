@@ -1,6 +1,6 @@
 ---
 created: 2021-10-28T02:22:57+02:00
-modified: 2022-02-16T22:27:33+01:00
+modified: 2022-03-02T14:13:27+01:00
 ---
 
 # TODOS
@@ -52,6 +52,7 @@ modified: 2022-02-16T22:27:33+01:00
 #### Non-Uni
 
 - [ ] Pay rent 🔴
+- [ ] Appeler mamie Enza pour chèque 🔴
 - [ ] Message to Danae 🟠
 - [ ] Fetch Semesterticket 🟠
 - [ ] Netto receipts 🟠
