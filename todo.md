@@ -54,11 +54,9 @@ modified: 2022-03-02T14:13:27+01:00
 - [ ] Pay rent 🔴
 - [ ] Appeler mamie Enza pour chèque 🔴
 - [ ] Message to Danae 🟠
-- [ ] Fetch Semesterticket 🟠
 - [ ] Netto receipts 🟠
 - [ ] Establish a portfolio plan [Progress <15%>] 🟡
-- [ ] Go to Muji 🟡
-- [ ] Go to Samsung 🟡
+
 - [ ] Itch page for 1B and make it open source 🔵
 - [ ] Define what SebEssentials should be and refine them [Progress <15%>] 🟡
 - [ ] Take [[Freya Maths course]] 🔵
@@ -76,6 +74,9 @@ modified: 2022-03-02T14:13:27+01:00
 
 <div class="grey">
 
+- [✅] Fetch Semesterticket 🟠
+- [✅ ] Go to Muji 🟡
+- [✅] Go to Samsung 🟡
 - Regarder les salles d'escalade a Berlin
 
 - ✅ Tools and Technology platformer --> Feb 1st [Progress <100%>]
