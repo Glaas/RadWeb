@@ -13,7 +13,6 @@ modified: 2022-03-02T14:13:27+01:00
 
 <summary> ⯈ Chart</summary>
 
-
 - [ ] -- Pending
 
 ✅ - Done  
@@ -22,14 +21,12 @@ modified: 2022-03-02T14:13:27+01:00
 🟡 - Not urgent  
 🔵 - Long term
 
-
 </details>
 
 <div class="box">
 
 #### Uni
 
-- [ ] Register for classes 🔴  
 
 </div>
 
@@ -37,13 +34,12 @@ modified: 2022-03-02T14:13:27+01:00
 
 #### SHK
 
-- [ ] SHK Archives --> Urgent [Progress <10%>] 🔴  
-- [ ] Reply to work extension email and sign contract 🔴  
+- [ ] SHK Archives --> Urgent [Progress <10%>] 🔴
+- [ ] Reply to work extension email and sign contract 🔴
 - [ ] Updating [Unity Templates](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793014517?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793014517&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793014517) 🟠
 - [ ] Updating [Credits the game](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645792796970?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645792796970&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645792796970) 🟠
 - [ ] [Updating all PCs](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793106624?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793106624&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793106624) 🟠
 - [ ] Planning day March 8th 🟠
-
 
 </div>
 
@@ -51,9 +47,6 @@ modified: 2022-03-02T14:13:27+01:00
 
 #### Non-Uni
 
-- [ ] Pay rent 🔴
-- [ ] Appeler mamie Enza pour chèque 🔴
-- [ ] Message to Danae 🟠
 - [ ] Netto receipts 🟠
 - [ ] Establish a portfolio plan [Progress <15%>] 🟡
 
@@ -64,7 +57,6 @@ modified: 2022-03-02T14:13:27+01:00
 - [ ] New profile picture 🔵
 - [ ] Blog post about [[Rock paper scissors infuriating bot]] 🔵
 
-
 </div>
 
 ---
@@ -73,7 +65,10 @@ modified: 2022-03-02T14:13:27+01:00
 <summary>⯈ Archives</summary>
 
 <div class="grey">
-
+- [x] Register for classes 🔴
+- [x] Message to Danae 🟠
+- [x] Pay rent 🔴
+- [x] Appeler mamie Enza pour chèque 🔴
 - [✅] Fetch Semesterticket 🟠
 - [✅ ] Go to Muji 🟡
 - [✅] Go to Samsung 🟡
@@ -95,7 +90,7 @@ modified: 2022-03-02T14:13:27+01:00
 - ✅ Juice process journal --> Feb 1st [Progress <70%>]
 - ✅ Juice progress --> Jan 20th [Progress <100%>]
 - ✅ Juice presentation --> Jan 25th, 16:00 [Progress <20%>]
-- ✅ Seminar paper on the Humboldt Forum --> Feb 1st [Progress <100%>]  
+- ✅ Seminar paper on the Humboldt Forum --> Feb 1st [Progress <100%>]
 
 </div>
 
