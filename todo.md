@@ -35,7 +35,6 @@ modified: 2022-03-02T14:13:27+01:00
 #### SHK
 
 - [ ] SHK Archives --> Urgent [Progress <10%>] 🔴
-- [ ] Reply to work extension email and sign contract 🔴
 - [ ] Updating [Unity Templates](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793014517?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793014517&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793014517) 🟠
 - [ ] Updating [Credits the game](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645792796970?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645792796970&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645792796970) 🟠
 - [ ] [Updating all PCs](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793106624?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793106624&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793106624) 🟠
@@ -49,7 +48,6 @@ modified: 2022-03-02T14:13:27+01:00
 
 - [ ] Netto receipts 🟠
 - [ ] Establish a portfolio plan [Progress <15%>] 🟡
-
 - [ ] Itch page for 1B and make it open source 🔵
 - [ ] Define what SebEssentials should be and refine them [Progress <15%>] 🟡
 - [ ] Take [[Freya Maths course]] 🔵
@@ -65,6 +63,8 @@ modified: 2022-03-02T14:13:27+01:00
 <summary>⯈ Archives</summary>
 
 <div class="grey">
+- [x] Reply to work extension email and sign contract 🔴
+
 - [x] Register for classes 🔴
 - [x] Message to Danae 🟠
 - [x] Pay rent 🔴
