@@ -66,6 +66,7 @@ modified: 2022-03-02T14:13:27+01:00
 - [x] Reply to work extension email and sign contract 🔴
 
 - [x] Register for classes 🔴
+- [x] Make todo list website prettier and more organized 🔵
 - [x] Message to Danae 🟠
 - [x] Pay rent 🔴
 - [x] Appeler mamie Enza pour chèque 🔴
