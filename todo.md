@@ -62,18 +62,21 @@ modified: 2022-03-02T14:13:27+01:00
 <summary>⯈ Archives</summary>
 
 <div class="grey">
-  - [v] Updating [Credits the game](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645792796970?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645792796970&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645792796970) 🟠
-- [x] Reply to work extension email and sign contract 🔴
-- [x] Updating [Unity Templates](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793014517?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793014517&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793014517) 🟠
-- [x] Register for classes 🔴
-- [x] Make todo list website prettier and more organized 🔵
-- [x] Message to Danae 🟠
-- [x] Pay rent 🔴
-- [x] Appeler mamie Enza pour chèque 🔴
-- [✅] Fetch Semesterticket 🟠
-- [✅ ] Go to Muji 🟡
-- [✅] Go to Samsung 🟡
-- Regarder les salles d'escalade a Berlin
+  - [v] Updating [Credits the game](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645792796970?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645792796970&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645792796970) 🟠 
+  
+- [x] Reply to work extension email and sign contract 🔴  
+  
+- [x] Updating [Unity Templates](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793014517?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793014517&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793014517) 🟠  
+  
+- [x] Register for classes 🔴  
+- [x] Make todo list website prettier and more organized 🔵  
+- [x] Message to Danae 🟠  
+- [x] Pay rent 🔴  
+- [x] Appeler mamie Enza pour chèque 🔴  
+- [✅] Fetch Semesterticket 🟠  
+- [✅ ] Go to Muji 🟡  
+- [✅] Go to Samsung 🟡  
+- Regarder les salles d'escalade a Berlin  
 
 - ✅ Tools and Technology platformer --> Feb 1st [Progress <100%>]
 - ✅ Tools and technology documentation --> Feb 1st [Progress <100%>]
