@@ -35,7 +35,7 @@ modified: 2022-03-02T14:13:27+01:00
 #### SHK
 
 - [ ] SHK Archives --> Urgent [Progress <10%>] 🔴  
-- [ ] Arcade machine 🟠
+- [ ] Arcade machine 🟠 <a href"https://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/">retroarch tuto</a>
 
 - [ ] [Updating all PCs](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793106624?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793106624&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793106624) 🟠
 - [ ] Planning day March 8th 🟠
