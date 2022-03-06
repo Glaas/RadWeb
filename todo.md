@@ -46,6 +46,9 @@ modified: 2022-03-02T14:13:27+01:00
 
 #### Non-Uni
 
+- [ ] Clean room 🟠
+- [ ] Organize desk 🟠
+- [ ] Install linux 🟠
 - [ ] Netto receipts 🟠
 - [ ] Establish a portfolio plan [Progress <15%>] 🟡
 - [ ] Itch page for 1B and make it open source 🔵
