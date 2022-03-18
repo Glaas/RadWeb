@@ -52,6 +52,8 @@ modified: 2022-03-02T14:13:27+01:00
 
   - make event with kelly
   - see vivi
+  the boys
+  bouldering
   
 - [v ] Clean room 🟠
 - [ v] Organize desk 🟠
