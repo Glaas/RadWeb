@@ -27,22 +27,19 @@ modified: 2022-03-24T18:42:45+01:00
 
 #### Uni
 
-
 </div>
 
 <div class="box">
 
 #### SHK
-- post to profs for software on pcs
-  - make plan for stamm template
-  - meeting (22nd?)
-  - log my hours in toggle (1h on 17nth)
-  
-- [ ] SHK Archives --> Urgent [Progress <10%>] 🔴  
+
+- [ ]post to profs for software on pcs
+- [ ] Csongor template
+- [ ]log my hours in toggle (1h on 17nth)
+- [ ] SHK Archives --> Urgent [Progress <10%>] 🔴
 - [ ] Arcade machine 🟠[retroarch tuto](https://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/)
 
 - [ ] [Updating all PCs](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793106624?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793106624&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793106624) 🟠
-- [ v] Planning day March 8th 🟠
 
 </div>
 
@@ -50,13 +47,11 @@ modified: 2022-03-24T18:42:45+01:00
 
 #### Non-Uni
 
-  - make event with kelly
-  - see vivi
-  the boys
-  bouldering
-  
-- [v ] Clean room 🟠
-- [ v] Organize desk 🟠
+- [ ] make event with kelly
+- [ ] see vivi
+- [ ] the boys
+- [ ] bouldering
+
 - [ ] Install linux 🟠
 - [ ] Netto receipts 🟠
 - [ ] Establish a portfolio plan [Progress <15%>] 🟡
@@ -76,27 +71,29 @@ modified: 2022-03-24T18:42:45+01:00
 
 <div class="grey">
 
-  
-- [x] Updating <a href="https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645792796970?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645792796970&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645792796970">Credits the game</a> 🟠 
-  
-- [x] Reply to work extension email and sign contract 🔴  
-  
-- [x] Updating [Unity Templates](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793014517?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793014517&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793014517) 🟠  
-  
-- [x] Register for classes 🔴  
-- [x] Make todo list website prettier and more organized 🔵  
-- [x] Message to Danae 🟠  
-- [x] Pay rent 🔴  
-- [x] Appeler mamie Enza pour chèque 🔴  
-- [✅] Fetch Semesterticket 🟠  
-- [✅ ] Go to Muji 🟡  
-- [✅] Go to Samsung 🟡  
-- Regarder les salles d'escalade a Berlin  
+- [ v] Planning day March 8th 🟠
+
+- [x] Updating <a href="https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645792796970?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645792796970&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645792796970">Credits the game</a> 🟠
+- [x] Reply to work extension email and sign contract 🔴
+- [x] Updating [Unity Templates](https://teams.microsoft.com/l/message/19:3708c917a44c44b0b33e0b7b31607236@thread.skype/1645793014517?tenantId=b4b62109-b5e5-499a-a5da-97f68d962343&groupId=a987bfb2-9054-4e9c-9bd1-1a2864a93c08&parentMessageId=1645793014517&teamName=GD%20Orga&channelName=SHK%20BER&createdTime=1645793014517) 🟠
+  - [v ] Clean room 🟠
+- [ v] Organize desk 🟠
+- [x] Register for classes 🔴
+- [x] Make todo list website prettier and more organized 🔵
+- [x] Message to Danae 🟠
+- [x] Pay rent 🔴
+- [x] Appeler mamie Enza pour chèque 🔴
+- [✅] Fetch Semesterticket 🟠
+- [✅ ] Go to Muji 🟡
+- [✅] Go to Samsung 🟡
+- Regarder les salles d'escalade a Berlin
 
 - ✅ Tools and Technology platformer --> Feb 1st [Progress <100%>]
 - ✅ Tools and technology documentation --> Feb 1st [Progress <100%>]
 - ✅ SHK Arcade --> Jan 19th [Progress <0%>]
 - ✅ SHK Flaschenposte --> Jan 19th [Progress <50%>]
+- [ ]make plan for stamm template
+- [ ]meeting (22nd?)
 
 ---
 
