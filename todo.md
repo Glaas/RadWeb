@@ -1,6 +1,6 @@
 ---
 created: 2021-10-28T02:22:57+02:00
-modified: 2022-03-02T14:13:27+01:00
+modified: 2022-03-24T18:42:45+01:00
 ---
 
 # TODOS
@@ -33,7 +33,7 @@ modified: 2022-03-02T14:13:27+01:00
 <div class="box">
 
 #### SHK
-
+- post to profs for software on pcs
   - make plan for stamm template
   - meeting (22nd?)
   - log my hours in toggle (1h on 17nth)
