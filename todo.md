@@ -1,6 +1,6 @@
 ---
 created: 2021-10-28T02:22:57+02:00
-modified: 2022-03-24T18:42:45+01:00
+modified: 2022-03-25T11:52:53+01:00
 ---
 
 # TODOS
@@ -46,7 +46,7 @@ modified: 2022-03-24T18:42:45+01:00
 <div class="box">
 
 #### Non-Uni
-
+- [ ] Send list of days to Caro
 - [ ] make event with kelly
 - [ ] see vivi
 - [ ] the boys
